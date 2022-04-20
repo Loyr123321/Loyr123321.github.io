@@ -31,7 +31,6 @@ const Footer = () => { //defolt
                 </div>
             </div>
             <div className="footer-items-case">
-
                 <div className="footer-right-column">Наш адрес</div>
                 <div className="footer-right-column">ул. Ленина д. 159 оф. 69</div>
                 <div className="footer-right-column">
